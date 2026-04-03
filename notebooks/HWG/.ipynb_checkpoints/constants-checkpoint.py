@@ -122,8 +122,6 @@ GENCODE_ANNOTATION_PATH = f'{REFERENCE_DIR}/gencode.v43.annotation.gtf.gz'
 
 
 ### ALPHAGENOME
-API_KEY = 'AIzaSyBbhb4MgbXw4X03M8SFe2nk-9m8TpVIWKw'
-
 def modify_HWG_path(suffix):
     save_path = HARD_WIRED_GENOME_A_MATRIX_PATH.strip('.csv') + f"_{suffix}.csv"
     return save_path
