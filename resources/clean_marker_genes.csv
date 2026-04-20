@@ -1,0 +1,700 @@
+gene,cell_type,source,category,other_categories?
+APOD,Fibroblast Skin Human,CellMarker,fibroblast,unique
+APOE,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CCL19,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CCL2,Fibroblast Skin Human,CellMarker,fibroblast,muscle
+CD36,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CEL,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CFB,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CFD,Fibroblast Skin Human,CellMarker,fibroblast,unique
+COL18A1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+COL1A1,Fibroblast Skin Human,CellMarker,fibroblast,"muscle, myofibroblast"
+COL1A2,Fibroblast Skin Human,CellMarker,fibroblast,"muscle, myofibroblast"
+COL6A2,Fibroblast Skin Human,CellMarker,fibroblast,unique
+COL6A5,Fibroblast Skin Human,CellMarker,fibroblast,unique
+CXCL12,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+CXCL14,Fibroblast Skin Human,CellMarker,fibroblast,unique
+DCN,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+DPP4,Fibroblast Skin Human,CellMarker,fibroblast,unique
+FBLN1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+FN1,Fibroblast Skin Human,CellMarker,fibroblast,"muscle, myofibroblast"
+KRT14,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+LUM,Fibroblast Skin Human,CellMarker,fibroblast,"muscle, myofibroblast"
+LYVE1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+MMP2,Fibroblast Skin Human,CellMarker,fibroblast,"muscle, myofibroblast"
+MXRA8,Fibroblast Skin Human,CellMarker,fibroblast,unique
+PAX1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+PCOLCE,Fibroblast Skin Human,CellMarker,fibroblast,unique
+PDGFRA,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+PLA2G2A,Fibroblast Skin Human,CellMarker,fibroblast,unique
+PLPP3,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+SDC2,Fibroblast Skin Human,CellMarker,fibroblast,unique
+SERPINH1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+SMN1,Fibroblast Skin Human,CellMarker,fibroblast,unique
+THY1,Fibroblast Skin Human,CellMarker,fibroblast,myofibroblast
+TNC,Fibroblast Skin Human,CellMarker,fibroblast,unique
+TRIL,Fibroblast Skin Human,CellMarker,fibroblast,unique
+VIM,Fibroblast Skin Human,CellMarker,fibroblast,unique
+ABI3,Fibroblasts,Panglao,fibroblast,unique
+ABI3BP,Fibroblasts,Panglao,fibroblast,unique
+ACKR3,Fibroblasts,Panglao,fibroblast,unique
+ACTA2,Fibroblasts,Panglao,fibroblast,myofibroblast
+ACVRL1,Fibroblasts,Panglao,fibroblast,unique
+ADAM33,Fibroblasts,Panglao,fibroblast,myofibroblast
+ADAMTS10,Fibroblasts,Panglao,fibroblast,unique
+ADAMTS2,Fibroblasts,Panglao,fibroblast,unique
+ADAMTS5,Fibroblasts,Panglao,fibroblast,myofibroblast
+ADAMTSL1,Fibroblasts,Panglao,fibroblast,myofibroblast
+ADGRL4,Fibroblasts,Panglao,fibroblast,myofibroblast
+ANGPTL2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+ARAP1,Fibroblasts,Panglao,fibroblast,unique
+ASPN,Fibroblasts,Panglao,fibroblast,unique
+BGN,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+C1QTNF1,Fibroblasts,Panglao,fibroblast,muscle
+C1QTNF5,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+C1R,Fibroblasts,Panglao,fibroblast,myofibroblast
+C1S,Fibroblasts,Panglao,fibroblast,myofibroblast
+CCDC80,Fibroblasts,Panglao,fibroblast,myofibroblast
+CCL11,Fibroblasts,Panglao,fibroblast,unique
+CCL19,Fibroblasts,Panglao,fibroblast,unique
+CCN2,Fibroblasts,Panglao,fibroblast,unique
+CCN4,Fibroblasts,Panglao,fibroblast,unique
+CCR2,Fibroblasts,Panglao,fibroblast,unique
+CD248,Fibroblasts,Panglao,fibroblast,unique
+CD300E,Fibroblasts,Panglao,fibroblast,unique
+CD40,Fibroblasts,Panglao,fibroblast,unique
+CD44,Fibroblasts,Panglao,fibroblast,unique
+CD55,Fibroblasts,Panglao,fibroblast,unique
+CDH11,Fibroblasts,Panglao,fibroblast,myofibroblast
+CEBPB,Fibroblasts,Panglao,fibroblast,unique
+CELA1,Fibroblasts,Panglao,fibroblast,unique
+CKAP4,Fibroblasts,Panglao,fibroblast,unique
+CLEC14A,Fibroblasts,Panglao,fibroblast,unique
+CLEC3B,Fibroblasts,Panglao,fibroblast,unique
+COL12A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL13A1,Fibroblasts,Panglao,fibroblast,unique
+COL14A1,Fibroblasts,Panglao,fibroblast,myofibroblast
+COL15A1,Fibroblasts,Panglao,fibroblast,unique
+COL16A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL1A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL1A2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL3A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL4A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL4A2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL4A3,Fibroblasts,Panglao,fibroblast,unique
+COL4A4,Fibroblasts,Panglao,fibroblast,unique
+COL5A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL5A2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL5A3,Fibroblasts,Panglao,fibroblast,unique
+COL6A1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+COL6A2,Fibroblasts,Panglao,fibroblast,unique
+COL6A3,Fibroblasts,Panglao,fibroblast,myofibroblast
+COL7A1,Fibroblasts,Panglao,fibroblast,unique
+COL8A1,Fibroblasts,Panglao,fibroblast,unique
+COPZ2,Fibroblasts,Panglao,fibroblast,unique
+COX7A1,Fibroblasts,Panglao,fibroblast,muscle
+CTHRC1,Fibroblasts,Panglao,fibroblast,unique
+CTSK,Fibroblasts,Panglao,fibroblast,unique
+CXCL12,Fibroblasts,Panglao,fibroblast,myofibroblast
+CXCL14,Fibroblasts,Panglao,fibroblast,unique
+CXCL3,Fibroblasts,Panglao,fibroblast,unique
+CXCL8,Fibroblasts,Panglao,fibroblast,unique
+CYBRD1,Fibroblasts,Panglao,fibroblast,unique
+CYP1B1,Fibroblasts,Panglao,fibroblast,unique
+DAB2,Fibroblasts,Panglao,fibroblast,unique
+DCN,Fibroblasts,Panglao,fibroblast,myofibroblast
+DDR2,Fibroblasts,Panglao,fibroblast,myofibroblast
+DKK1,Fibroblasts,Panglao,fibroblast,unique
+DKK3,Fibroblasts,Panglao,fibroblast,myofibroblast
+DPEP1,Fibroblasts,Panglao,fibroblast,unique
+DPT,Fibroblasts,Panglao,fibroblast,unique
+EDN3,Fibroblasts,Panglao,fibroblast,unique
+EDNRA,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+EFEMP1,Fibroblasts,Panglao,fibroblast,unique
+EFEMP2,Fibroblasts,Panglao,fibroblast,myofibroblast
+EGR1,Fibroblasts,Panglao,fibroblast,unique
+ELN,Fibroblasts,Panglao,fibroblast,myofibroblast
+EMILIN1,Fibroblasts,Panglao,fibroblast,unique
+EN1,Fibroblasts,Panglao,fibroblast,unique
+ENO3,Fibroblasts,Panglao,fibroblast,muscle
+ENTPD2,Fibroblasts,Panglao,fibroblast,unique
+ERCC1,Fibroblasts,Panglao,fibroblast,unique
+FABP4,Fibroblasts,Panglao,fibroblast,unique
+FAM180A,Fibroblasts,Panglao,fibroblast,unique
+FAP,Fibroblasts,Panglao,fibroblast,myofibroblast
+FBLN2,Fibroblasts,Panglao,fibroblast,unique
+FBLN5,Fibroblasts,Panglao,fibroblast,unique
+FBLN7,Fibroblasts,Panglao,fibroblast,unique
+FBN1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+FGF2,Fibroblasts,Panglao,fibroblast,unique
+FGR,Fibroblasts,Panglao,fibroblast,unique
+FIBIN,Fibroblasts,Panglao,fibroblast,myofibroblast
+FKBP10,Fibroblasts,Panglao,fibroblast,muscle
+FKBP7,Fibroblasts,Panglao,fibroblast,unique
+FLI1,Fibroblasts,Panglao,fibroblast,unique
+FMO2,Fibroblasts,Panglao,fibroblast,unique
+FMOD,Fibroblasts,Panglao,fibroblast,myofibroblast
+FN1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+FNDC1,Fibroblasts,Panglao,fibroblast,myofibroblast
+FOSB,Fibroblasts,Panglao,fibroblast,unique
+FOSL2,Fibroblasts,Panglao,fibroblast,unique
+FOXF1,Fibroblasts,Panglao,fibroblast,unique
+FRZB,Fibroblasts,Panglao,fibroblast,unique
+FSTL1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+GJB2,Fibroblasts,Panglao,fibroblast,unique
+GREM1,Fibroblasts,Panglao,fibroblast,unique
+GSN,Fibroblasts,Panglao,fibroblast,unique
+GSTM5,Fibroblasts,Panglao,fibroblast,unique
+HAS1,Fibroblasts,Panglao,fibroblast,unique
+HCK,Fibroblasts,Panglao,fibroblast,unique
+HGF,Fibroblasts,Panglao,fibroblast,unique
+HHIP,Fibroblasts,Panglao,fibroblast,unique
+HIF1A,Fibroblasts,Panglao,fibroblast,unique
+HSPB6,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+HTRA1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+HTRA3,Fibroblasts,Panglao,fibroblast,unique
+IGF1,Fibroblasts,Panglao,fibroblast,unique
+IGFBP3,Fibroblasts,Panglao,fibroblast,unique
+IGFBP6,Fibroblasts,Panglao,fibroblast,unique
+IGFBP7,Fibroblasts,Panglao,fibroblast,unique
+IL1R1,Fibroblasts,Panglao,fibroblast,unique
+IL34,Fibroblasts,Panglao,fibroblast,unique
+IL6,Fibroblasts,Panglao,fibroblast,unique
+INMT,Fibroblasts,Panglao,fibroblast,unique
+ISLR,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+ITGAL,Fibroblasts,Panglao,fibroblast,unique
+ITGBL1,Fibroblasts,Panglao,fibroblast,unique
+ITIH5,Fibroblasts,Panglao,fibroblast,unique
+KLF2,Fibroblasts,Panglao,fibroblast,unique
+KLF4,Fibroblasts,Panglao,fibroblast,unique
+KLF6,Fibroblasts,Panglao,fibroblast,unique
+KLF9,Fibroblasts,Panglao,fibroblast,unique
+LAMA2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+LAMA4,Fibroblasts,Panglao,fibroblast,myofibroblast
+LAMB1,Fibroblasts,Panglao,fibroblast,muscle
+LAMC1,Fibroblasts,Panglao,fibroblast,unique
+LMOD1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+LOX,Fibroblasts,Panglao,fibroblast,unique
+LRRK1,Fibroblasts,Panglao,fibroblast,unique
+LTBP2,Fibroblasts,Panglao,fibroblast,unique
+LUM,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+MDK,Fibroblasts,Panglao,fibroblast,unique
+MEDAG,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+MEOX1,Fibroblasts,Panglao,fibroblast,muscle
+MFAP4,Fibroblasts,Panglao,fibroblast,myofibroblast
+MFAP5,Fibroblasts,Panglao,fibroblast,unique
+MGP,Fibroblasts,Panglao,fibroblast,unique
+MMP14,Fibroblasts,Panglao,fibroblast,myofibroblast
+MMP2,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+MMP3,Fibroblasts,Panglao,fibroblast,unique
+MRGPRF,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+MXRA5,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+MYL9,Fibroblasts,Panglao,fibroblast,myofibroblast
+NFAT5,Fibroblasts,Panglao,fibroblast,unique
+NFATC1,Fibroblasts,Panglao,fibroblast,unique
+NFKB1,Fibroblasts,Panglao,fibroblast,unique
+NGF,Fibroblasts,Panglao,fibroblast,muscle
+NID2,Fibroblasts,Panglao,fibroblast,muscle
+NNMT,Fibroblasts,Panglao,fibroblast,muscle
+NOX4,Fibroblasts,Panglao,fibroblast,unique
+NR2F6,Fibroblasts,Panglao,fibroblast,unique
+NR4A1,Fibroblasts,Panglao,fibroblast,unique
+NR4A2,Fibroblasts,Panglao,fibroblast,unique
+NT5E,Fibroblasts,Panglao,fibroblast,unique
+OAF,Fibroblasts,Panglao,fibroblast,unique
+OLFML2B,Fibroblasts,Panglao,fibroblast,unique
+OLFML3,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+P4HA1,Fibroblasts,Panglao,fibroblast,unique
+P4HTM,Fibroblasts,Panglao,fibroblast,unique
+PALLD,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+PAMR1,Fibroblasts,Panglao,fibroblast,myofibroblast
+PBX1,Fibroblasts,Panglao,fibroblast,unique
+PCDH18,Fibroblasts,Panglao,fibroblast,myofibroblast
+PCSK6,Fibroblasts,Panglao,fibroblast,unique
+PDGFRA,Fibroblasts,Panglao,fibroblast,myofibroblast
+PDGFRB,Fibroblasts,Panglao,fibroblast,myofibroblast
+PENK,Fibroblasts,Panglao,fibroblast,unique
+PI16,Fibroblasts,Panglao,fibroblast,unique
+PIP4K2A,Fibroblasts,Panglao,fibroblast,unique
+PKD2,Fibroblasts,Panglao,fibroblast,unique
+PLAC9,Fibroblasts,Panglao,fibroblast,unique
+PLSCR4,Fibroblasts,Panglao,fibroblast,myofibroblast
+PODN,Fibroblasts,Panglao,fibroblast,myofibroblast
+POSTN,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+PRG4,Fibroblasts,Panglao,fibroblast,unique
+PRKCD,Fibroblasts,Panglao,fibroblast,unique
+PRRX1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+PTCH1,Fibroblasts,Panglao,fibroblast,unique
+PTX3,Fibroblasts,Panglao,fibroblast,unique
+RARRES2,Fibroblasts,Panglao,fibroblast,unique
+RIPK3,Fibroblasts,Panglao,fibroblast,unique
+RUNX1,Fibroblasts,Panglao,fibroblast,unique
+S100A4,Fibroblasts,Panglao,fibroblast,unique
+SCARA5,Fibroblasts,Panglao,fibroblast,unique
+SERPINB10,Fibroblasts,Panglao,fibroblast,unique
+SERPINH1,Fibroblasts,Panglao,fibroblast,unique
+SGCD,Fibroblasts,Panglao,fibroblast,muscle
+SLC6A13,Fibroblasts,Panglao,fibroblast,unique
+SLIT3,Fibroblasts,Panglao,fibroblast,myofibroblast
+SNHG18,Fibroblasts,Panglao,fibroblast,unique
+SOD3,Fibroblasts,Panglao,fibroblast,myofibroblast
+SPARC,Fibroblasts,Panglao,fibroblast,myofibroblast
+SPON2,Fibroblasts,Panglao,fibroblast,unique
+SRPX2,Fibroblasts,Panglao,fibroblast,muscle
+SSC5D,Fibroblasts,Panglao,fibroblast,unique
+STAT3,Fibroblasts,Panglao,fibroblast,unique
+SULF1,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+SVEP1,Fibroblasts,Panglao,fibroblast,myofibroblast
+SYNPO2,Fibroblasts,Panglao,fibroblast,muscle
+TAGLN,Fibroblasts,Panglao,fibroblast,myofibroblast
+TBX18,Fibroblasts,Panglao,fibroblast,unique
+TBX20,Fibroblasts,Panglao,fibroblast,unique
+TCF21,Fibroblasts,Panglao,fibroblast,unique
+TCF4,Fibroblasts,Panglao,fibroblast,unique
+TEK,Fibroblasts,Panglao,fibroblast,myofibroblast
+THBS2,Fibroblasts,Panglao,fibroblast,myofibroblast
+THY1,Fibroblasts,Panglao,fibroblast,myofibroblast
+TIMP3,Fibroblasts,Panglao,fibroblast,"muscle, myofibroblast"
+TNFRSF1B,Fibroblasts,Panglao,fibroblast,unique
+TNS1,Fibroblasts,Panglao,fibroblast,myofibroblast
+TNXB,Fibroblasts,Panglao,fibroblast,unique
+TREML4,Fibroblasts,Panglao,fibroblast,unique
+TWIST2,Fibroblasts,Panglao,fibroblast,unique
+UCP2,Fibroblasts,Panglao,fibroblast,unique
+VCAM1,Fibroblasts,Panglao,fibroblast,unique
+VEGFA,Fibroblasts,Panglao,fibroblast,unique
+VIM,Fibroblasts,Panglao,fibroblast,unique
+VTN,Fibroblasts,Panglao,fibroblast,unique
+WIF1,Fibroblasts,Panglao,fibroblast,unique
+ZEB2,Fibroblasts,Panglao,fibroblast,unique
+CDK1,Myoblast Muscle Human,CellMarker,muscle,unique
+ID1,Myoblast Muscle Human,CellMarker,muscle,unique
+ID3,Myoblast Muscle Human,CellMarker,muscle,unique
+MYOD1,Myoblast Muscle Human,CellMarker,muscle,unique
+MYOG,Myoblast Muscle Human,CellMarker,muscle,unique
+PCNA,Myoblast Muscle Human,CellMarker,muscle,unique
+TTN,Myoblast Muscle Human,CellMarker,muscle,unique
+EMD,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+EYA1,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+EYA2,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+GLI2,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+LEMD2,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MAPK12,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MEF2A,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MEF2C,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MEF2D,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MEOX1,Myoblast Skeletal Muscle Human,CellMarker,muscle,fibroblast
+MYF5,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MYF6,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MYOD1,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+MYOG,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+NRG1,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+PAX3,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+PAX7,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+RNMT,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+SIX1,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+SIX2,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+SMTN,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+TCF12,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+TEAD4,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+TGFB1,Myoblast Skeletal Muscle Human,CellMarker,muscle,unique
+ACHE,Myoblasts,Panglao,muscle,unique
+ACTC1,Myoblasts,Panglao,muscle,unique
+ADAM12,Myoblasts,Panglao,muscle,unique
+ADAMTS12,Myoblasts,Panglao,muscle,unique
+AFAP1L1,Myoblasts,Panglao,muscle,unique
+AMOTL2,Myoblasts,Panglao,muscle,unique
+ANGPT2,Myoblasts,Panglao,muscle,unique
+ANGPTL2,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+ANTXR1,Myoblasts,Panglao,muscle,unique
+ARL4D,Myoblasts,Panglao,muscle,unique
+ASB5,Myoblasts,Panglao,muscle,unique
+BCAR1,Myoblasts,Panglao,muscle,unique
+BGN,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+BRAF,Myoblasts,Panglao,muscle,unique
+C1QTNF1,Myoblasts,Panglao,muscle,fibroblast
+C1QTNF5,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+CACNA2D1,Myoblasts,Panglao,muscle,unique
+CALD1,Myoblasts,Panglao,muscle,myofibroblast
+CAP2,Myoblasts,Panglao,muscle,unique
+CAPN1,Myoblasts,Panglao,muscle,unique
+CAV1,Myoblasts,Panglao,muscle,unique
+CCL2,Myoblasts,Panglao,muscle,fibroblast
+CDH15,Myoblasts,Panglao,muscle,unique
+CHST3,Myoblasts,Panglao,muscle,unique
+COL12A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL16A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL1A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL1A2,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL3A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL4A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL4A2,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL5A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL5A2,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+COL6A1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+CRYAB,Myoblasts,Panglao,muscle,myofibroblast
+CSPG4,Myoblasts,Panglao,muscle,unique
+CXCL1,Myoblasts,Panglao,muscle,unique
+DES,Myoblasts,Panglao,muscle,myofibroblast
+EDNRA,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+EGFR,Myoblasts,Panglao,muscle,unique
+EHD2,Myoblasts,Panglao,muscle,unique
+ENO3,Myoblasts,Panglao,muscle,fibroblast
+FAM114A1,Myoblasts,Panglao,muscle,unique
+FBN1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+FBXL7,Myoblasts,Panglao,muscle,myofibroblast
+FERMT2,Myoblasts,Panglao,muscle,unique
+FGFR4,Myoblasts,Panglao,muscle,unique
+FKBP10,Myoblasts,Panglao,muscle,fibroblast
+FKBP9,Myoblasts,Panglao,muscle,unique
+FLNC,Myoblasts,Panglao,muscle,myofibroblast
+FN1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+FSTL1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+GNG12,Myoblasts,Panglao,muscle,unique
+GPC1,Myoblasts,Panglao,muscle,unique
+HSPB2,Myoblasts,Panglao,muscle,myofibroblast
+HSPB2-C11ORF52,Myoblasts,Panglao,muscle,unique
+HSPB6,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+HSPB7,Myoblasts,Panglao,muscle,unique
+HSPB8,Myoblasts,Panglao,muscle,unique
+HSPG2,Myoblasts,Panglao,muscle,unique
+HTRA1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+IGF2,Myoblasts,Panglao,muscle,unique
+IGFBP5,Myoblasts,Panglao,muscle,myofibroblast
+ISLR,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+JPH2,Myoblasts,Panglao,muscle,unique
+KLHL40,Myoblasts,Panglao,muscle,unique
+LAMB1,Myoblasts,Panglao,muscle,fibroblast
+LAMB2,Myoblasts,Panglao,muscle,myofibroblast
+LIF,Myoblasts,Panglao,muscle,unique
+LMCD1,Myoblasts,Panglao,muscle,unique
+LMOD1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+LUM,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+MEDAG,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+MMP2,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+MRGPRF,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+MUSK,Myoblasts,Panglao,muscle,unique
+MXRA5,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+MYD88,Myoblasts,Panglao,muscle,unique
+MYF5,Myoblasts,Panglao,muscle,unique
+MYF6,Myoblasts,Panglao,muscle,unique
+MYL1,Myoblasts,Panglao,muscle,unique
+MYL3,Myoblasts,Panglao,muscle,unique
+MYOD1,Myoblasts,Panglao,muscle,unique
+MYOG,Myoblasts,Panglao,muscle,unique
+MYOZ2,Myoblasts,Panglao,muscle,unique
+NES,Myoblasts,Panglao,muscle,unique
+NGF,Myoblasts,Panglao,muscle,fibroblast
+NNMT,Myoblasts,Panglao,muscle,fibroblast
+OLFML3,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+PALLD,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+PARVA,Myoblasts,Panglao,muscle,myofibroblast
+PAX3,Myoblasts,Panglao,muscle,unique
+PAX7,Myoblasts,Panglao,muscle,unique
+PDZRN3,Myoblasts,Panglao,muscle,unique
+PHLDB1,Myoblasts,Panglao,muscle,myofibroblast
+PKDCC,Myoblasts,Panglao,muscle,unique
+POSTN,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+PPP1R3C,Myoblasts,Panglao,muscle,myofibroblast
+PRKG1,Myoblasts,Panglao,muscle,myofibroblast
+PRRX1,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+PTPN21,Myoblasts,Panglao,muscle,unique
+RBM24,Myoblasts,Panglao,muscle,unique
+RHBDF1,Myoblasts,Panglao,muscle,unique
+RND3,Myoblasts,Panglao,muscle,unique
+SIX1,Myoblasts,Panglao,muscle,unique
+SNAI2,Myoblasts,Panglao,muscle,unique
+SRPX,Myoblasts,Panglao,muscle,unique
+SRPX2,Myoblasts,Panglao,muscle,fibroblast
+STK40,Myoblasts,Panglao,muscle,unique
+SYDE1,Myoblasts,Panglao,muscle,unique
+SYNC,Myoblasts,Panglao,muscle,unique
+TBX3,Myoblasts,Panglao,muscle,unique
+TEAD1,Myoblasts,Panglao,muscle,unique
+TEAD3,Myoblasts,Panglao,muscle,unique
+TIMP3,Myoblasts,Panglao,muscle,"fibroblast, myofibroblast"
+TMEM47,Myoblasts,Panglao,muscle,myofibroblast
+TNFRSF12A,Myoblasts,Panglao,muscle,unique
+TNS2,Myoblasts,Panglao,muscle,myofibroblast
+TPM1,Myoblasts,Panglao,muscle,myofibroblast
+TPM2,Myoblasts,Panglao,muscle,myofibroblast
+TSPAN9,Myoblasts,Panglao,muscle,unique
+TTN,Myoblasts,Panglao,muscle,unique
+UACA,Myoblasts,Panglao,muscle,unique
+WWTR1,Myoblasts,Panglao,muscle,unique
+YAP1,Myoblasts,Panglao,muscle,unique
+ZBTB16,Myoblasts,Panglao,muscle,unique
+ACTA1,Myocytes,Panglao,muscle,unique
+ACTC1,Myocytes,Panglao,muscle,unique
+ACTN2,Myocytes,Panglao,muscle,unique
+ACTN3,Myocytes,Panglao,muscle,unique
+ADAM12,Myocytes,Panglao,muscle,unique
+ALPK3,Myocytes,Panglao,muscle,unique
+ANGPTL2,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+ANKRD1,Myocytes,Panglao,muscle,unique
+ANKRD2,Myocytes,Panglao,muscle,unique
+ARHGAP26,Myocytes,Panglao,muscle,unique
+ASB10,Myocytes,Panglao,muscle,unique
+ASB5,Myocytes,Panglao,muscle,unique
+C10ORF71,Myocytes,Panglao,muscle,unique
+CACNA1S,Myocytes,Panglao,muscle,unique
+CACNG1,Myocytes,Panglao,muscle,unique
+CAPZA3,Myocytes,Panglao,muscle,unique
+CASQ1,Myocytes,Panglao,muscle,unique
+CASQ2,Myocytes,Panglao,muscle,unique
+CAV3,Myocytes,Panglao,muscle,unique
+CDH15,Myocytes,Panglao,muscle,unique
+CHODL,Myocytes,Panglao,muscle,unique
+CKM,Myocytes,Panglao,muscle,unique
+CKMT2,Myocytes,Panglao,muscle,unique
+CLOCK,Myocytes,Panglao,muscle,unique
+CMKLR1,Myocytes,Panglao,muscle,unique
+CMYA5,Myocytes,Panglao,muscle,unique
+COL3A1,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+COL4A1,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+COX6A2,Myocytes,Panglao,muscle,unique
+COX7A1,Myocytes,Panglao,muscle,fibroblast
+CRYAB,Myocytes,Panglao,muscle,myofibroblast
+CSRP3,Myocytes,Panglao,muscle,unique
+CXCR4,Myocytes,Panglao,muscle,unique
+DES,Myocytes,Panglao,muscle,myofibroblast
+DHRS7C,Myocytes,Panglao,muscle,unique
+DLL1,Myocytes,Panglao,muscle,unique
+DMD,Myocytes,Panglao,muscle,unique
+DOCK1,Myocytes,Panglao,muscle,unique
+DOCK5,Myocytes,Panglao,muscle,unique
+EDN1,Myocytes,Panglao,muscle,unique
+EDNRA,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+ENO3,Myocytes,Panglao,muscle,fibroblast
+FABP3,Myocytes,Panglao,muscle,unique
+FHL2,Myocytes,Panglao,muscle,unique
+FLNC,Myocytes,Panglao,muscle,myofibroblast
+GATA4,Myocytes,Panglao,muscle,unique
+GATA5,Myocytes,Panglao,muscle,unique
+HHATL,Myocytes,Panglao,muscle,unique
+HRC,Myocytes,Panglao,muscle,unique
+HSPB2,Myocytes,Panglao,muscle,myofibroblast
+HSPB2-C11ORF52,Myocytes,Panglao,muscle,unique
+HSPB3,Myocytes,Panglao,muscle,unique
+HSPB6,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+HSPB7,Myocytes,Panglao,muscle,unique
+HSPB8,Myocytes,Panglao,muscle,unique
+IL4,Myocytes,Panglao,muscle,unique
+IL4R,Myocytes,Panglao,muscle,unique
+IP6K3,Myocytes,Panglao,muscle,unique
+IQSEC1,Myocytes,Panglao,muscle,unique
+ISLR,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+ITGA3,Myocytes,Panglao,muscle,unique
+ITGA7,Myocytes,Panglao,muscle,unique
+JPH2,Myocytes,Panglao,muscle,unique
+KBTBD13,Myocytes,Panglao,muscle,unique
+KLHL38,Myocytes,Panglao,muscle,unique
+KLHL40,Myocytes,Panglao,muscle,unique
+KLHL41,Myocytes,Panglao,muscle,unique
+LAMA2,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+LAMB1,Myocytes,Panglao,muscle,fibroblast
+LDB1,Myocytes,Panglao,muscle,unique
+LDB3,Myocytes,Panglao,muscle,unique
+LMOD1,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+LMOD2,Myocytes,Panglao,muscle,unique
+LRRC30,Myocytes,Panglao,muscle,unique
+MEF2A,Myocytes,Panglao,muscle,unique
+MEF2B,Myocytes,Panglao,muscle,unique
+MEF2D,Myocytes,Panglao,muscle,unique
+MMP2,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+MMP9,Myocytes,Panglao,muscle,unique
+MRC1,Myocytes,Panglao,muscle,unique
+MSTN,Myocytes,Panglao,muscle,unique
+MYF5,Myocytes,Panglao,muscle,unique
+MYF6,Myocytes,Panglao,muscle,unique
+MYH1,Myocytes,Panglao,muscle,unique
+MYH14,Myocytes,Panglao,muscle,unique
+MYH2,Myocytes,Panglao,muscle,unique
+MYH4,Myocytes,Panglao,muscle,unique
+MYH6,Myocytes,Panglao,muscle,unique
+MYH7,Myocytes,Panglao,muscle,unique
+MYH8,Myocytes,Panglao,muscle,unique
+MYL1,Myocytes,Panglao,muscle,unique
+MYL2,Myocytes,Panglao,muscle,unique
+MYL3,Myocytes,Panglao,muscle,unique
+MYLPF,Myocytes,Panglao,muscle,unique
+MYOC,Myocytes,Panglao,muscle,unique
+MYOD1,Myocytes,Panglao,muscle,unique
+MYOG,Myocytes,Panglao,muscle,unique
+MYOZ1,Myocytes,Panglao,muscle,unique
+MYOZ2,Myocytes,Panglao,muscle,unique
+NBR1,Myocytes,Panglao,muscle,unique
+NEB,Myocytes,Panglao,muscle,unique
+NID1,Myocytes,Panglao,muscle,unique
+NID2,Myocytes,Panglao,muscle,fibroblast
+NMRK2,Myocytes,Panglao,muscle,unique
+NOTCH3,Myocytes,Panglao,muscle,unique
+NPHS1,Myocytes,Panglao,muscle,unique
+NPPA,Myocytes,Panglao,muscle,unique
+NPPB,Myocytes,Panglao,muscle,unique
+NRAP,Myocytes,Panglao,muscle,unique
+PAX3,Myocytes,Panglao,muscle,unique
+PAX7,Myocytes,Panglao,muscle,unique
+PDLIM3,Myocytes,Panglao,muscle,unique
+PGAM2,Myocytes,Panglao,muscle,unique
+PLD1,Myocytes,Panglao,muscle,unique
+PLPP7,Myocytes,Panglao,muscle,unique
+POPDC2,Myocytes,Panglao,muscle,unique
+PPP1R3A,Myocytes,Panglao,muscle,unique
+PRKCQ,Myocytes,Panglao,muscle,unique
+PRKG1,Myocytes,Panglao,muscle,myofibroblast
+PRRX1,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+PTGIR,Myocytes,Panglao,muscle,unique
+PTK2,Myocytes,Panglao,muscle,unique
+PXN,Myocytes,Panglao,muscle,unique
+PYGM,Myocytes,Panglao,muscle,unique
+RASL12,Myocytes,Panglao,muscle,myofibroblast
+RPL7P3,Myocytes,Panglao,muscle,unique
+SGCA,Myocytes,Panglao,muscle,unique
+SGCD,Myocytes,Panglao,muscle,fibroblast
+SGCG,Myocytes,Panglao,muscle,unique
+SIX1,Myocytes,Panglao,muscle,unique
+SIX4,Myocytes,Panglao,muscle,unique
+SLN,Myocytes,Panglao,muscle,unique
+SMCO1,Myocytes,Panglao,muscle,unique
+SMPX,Myocytes,Panglao,muscle,unique
+SMYD1,Myocytes,Panglao,muscle,unique
+SPEG,Myocytes,Panglao,muscle,unique
+SRL,Myocytes,Panglao,muscle,unique
+SULF1,Myocytes,Panglao,muscle,"fibroblast, myofibroblast"
+SYNPO2,Myocytes,Panglao,muscle,fibroblast
+SYPL2,Myocytes,Panglao,muscle,unique
+TCAP,Myocytes,Panglao,muscle,unique
+THBS4,Myocytes,Panglao,muscle,unique
+TMOD4,Myocytes,Panglao,muscle,unique
+TNNC1,Myocytes,Panglao,muscle,unique
+TNNC2,Myocytes,Panglao,muscle,unique
+TNNI1,Myocytes,Panglao,muscle,unique
+TNNI2,Myocytes,Panglao,muscle,unique
+TNNT1,Myocytes,Panglao,muscle,unique
+TNNT3,Myocytes,Panglao,muscle,unique
+TPM1,Myocytes,Panglao,muscle,myofibroblast
+TPM2,Myocytes,Panglao,muscle,myofibroblast
+TRDN,Myocytes,Panglao,muscle,unique
+TRIM54,Myocytes,Panglao,muscle,unique
+TRIM55,Myocytes,Panglao,muscle,unique
+TRIM63,Myocytes,Panglao,muscle,unique
+TRIO,Myocytes,Panglao,muscle,unique
+TTN,Myocytes,Panglao,muscle,unique
+UNC45B,Myocytes,Panglao,muscle,unique
+VGLL2,Myocytes,Panglao,muscle,unique
+WASHC1,Myocytes,Panglao,muscle,unique
+WIPF1,Myocytes,Panglao,muscle,unique
+XIRP1,Myocytes,Panglao,muscle,unique
+XIRP2,Myocytes,Panglao,muscle,unique
+CCL21,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+ENG,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+FNDC1,Myofibroblast Skin Human,CellMarker,myofibroblast,fibroblast
+KAT14,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+KRT14,Myofibroblast Skin Human,CellMarker,myofibroblast,fibroblast
+MAFB,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+MMP14,Myofibroblast Skin Human,CellMarker,myofibroblast,fibroblast
+NRXN1,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+PTPRC,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+SFRP4,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+TYRP1,Myofibroblast Skin Human,CellMarker,myofibroblast,unique
+ACTA2,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ADAM33,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ADAMTS5,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ADAMTSL1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ADGRL4,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ANGPTL2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+AQP1,Myofibroblasts,Panglao,myofibroblast,unique
+BGN,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+C1QTNF5,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+C1R,Myofibroblasts,Panglao,myofibroblast,fibroblast
+C1S,Myofibroblasts,Panglao,myofibroblast,fibroblast
+CALD1,Myofibroblasts,Panglao,myofibroblast,muscle
+CCDC80,Myofibroblasts,Panglao,myofibroblast,fibroblast
+CDH11,Myofibroblasts,Panglao,myofibroblast,fibroblast
+CNN1,Myofibroblasts,Panglao,myofibroblast,unique
+COL12A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL14A1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+COL16A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL1A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL1A2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL3A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL4A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL4A2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL5A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL5A2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL6A1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+COL6A3,Myofibroblasts,Panglao,myofibroblast,fibroblast
+CRYAB,Myofibroblasts,Panglao,myofibroblast,muscle
+CXCL12,Myofibroblasts,Panglao,myofibroblast,fibroblast
+DAAM2,Myofibroblasts,Panglao,myofibroblast,unique
+DCN,Myofibroblasts,Panglao,myofibroblast,fibroblast
+DDR2,Myofibroblasts,Panglao,myofibroblast,fibroblast
+DES,Myofibroblasts,Panglao,myofibroblast,muscle
+DKK3,Myofibroblasts,Panglao,myofibroblast,fibroblast
+EDNRA,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+EFEMP2,Myofibroblasts,Panglao,myofibroblast,fibroblast
+ELN,Myofibroblasts,Panglao,myofibroblast,fibroblast
+FAP,Myofibroblasts,Panglao,myofibroblast,fibroblast
+FBN1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+FBXL7,Myofibroblasts,Panglao,myofibroblast,muscle
+FIBIN,Myofibroblasts,Panglao,myofibroblast,fibroblast
+FLNC,Myofibroblasts,Panglao,myofibroblast,muscle
+FMOD,Myofibroblasts,Panglao,myofibroblast,fibroblast
+FN1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+FSTL1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+GFAP,Myofibroblasts,Panglao,myofibroblast,unique
+GJA1,Myofibroblasts,Panglao,myofibroblast,unique
+HSPB2,Myofibroblasts,Panglao,myofibroblast,muscle
+HSPB6,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+HTRA1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+IGFBP5,Myofibroblasts,Panglao,myofibroblast,muscle
+ISLR,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+LAMA2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+LAMA4,Myofibroblasts,Panglao,myofibroblast,fibroblast
+LAMB2,Myofibroblasts,Panglao,myofibroblast,muscle
+LDB2,Myofibroblasts,Panglao,myofibroblast,unique
+LMOD1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+LRP1,Myofibroblasts,Panglao,myofibroblast,unique
+LUM,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+MEDAG,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+MFAP4,Myofibroblasts,Panglao,myofibroblast,fibroblast
+MMP2,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+MRGPRF,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+MXRA5,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+MYL9,Myofibroblasts,Panglao,myofibroblast,fibroblast
+MYLK,Myofibroblasts,Panglao,myofibroblast,unique
+MYOCD,Myofibroblasts,Panglao,myofibroblast,unique
+NTM,Myofibroblasts,Panglao,myofibroblast,unique
+OLFML3,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+PALLD,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+PAMR1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PARVA,Myofibroblasts,Panglao,myofibroblast,muscle
+PCDH18,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PDGFRA,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PDGFRB,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PHLDB1,Myofibroblasts,Panglao,myofibroblast,muscle
+PLPP3,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PLSCR4,Myofibroblasts,Panglao,myofibroblast,fibroblast
+PODN,Myofibroblasts,Panglao,myofibroblast,fibroblast
+POSTN,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+PPP1R3C,Myofibroblasts,Panglao,myofibroblast,muscle
+PRKG1,Myofibroblasts,Panglao,myofibroblast,muscle
+PRRX1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+PTN,Myofibroblasts,Panglao,myofibroblast,unique
+RASL12,Myofibroblasts,Panglao,myofibroblast,muscle
+SLIT3,Myofibroblasts,Panglao,myofibroblast,fibroblast
+SOD3,Myofibroblasts,Panglao,myofibroblast,fibroblast
+SPARC,Myofibroblasts,Panglao,myofibroblast,fibroblast
+SULF1,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+SVEP1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+TAGLN,Myofibroblasts,Panglao,myofibroblast,fibroblast
+TEK,Myofibroblasts,Panglao,myofibroblast,fibroblast
+THBS2,Myofibroblasts,Panglao,myofibroblast,fibroblast
+THY1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+TIMP3,Myofibroblasts,Panglao,myofibroblast,"fibroblast, muscle"
+TMEM47,Myofibroblasts,Panglao,myofibroblast,muscle
+TNS1,Myofibroblasts,Panglao,myofibroblast,fibroblast
+TNS2,Myofibroblasts,Panglao,myofibroblast,muscle
+TPM1,Myofibroblasts,Panglao,myofibroblast,muscle
+TPM2,Myofibroblasts,Panglao,myofibroblast,muscle
